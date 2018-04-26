@@ -1,0 +1,92 @@
+==============================
+2018-04-17 09:58
+Forward frame:	262
+Right frame:	236
+Left frame:	47
+Total frame:	545
+
+==============================
+2018-04-17 10:23
+Forward frame:	162
+Right frame:	190
+Left frame:	47
+Total frame:	399
+
+
+==============================//err
+2018-04-17 10:28
+Forward frame:	34
+Right frame:	26
+Left frame:	12
+Total frame:	72
+
+==============================
+2018-04-17 11:55
+Forward frame:	179
+Right frame:	67
+Left frame:	115
+Total frame:	361
+
+==============================
+2018-04-17 12:05
+Forward frame:	240
+Right frame:	109
+Left frame:	161
+Total frame:	510
+
+==============================
+2018-04-17 12:54
+Forward frame:	415
+Right frame:	288
+Left frame:	189
+Total frame:	892
+
+==============================
+2018-04-17 13:30
+Forward frame:	345
+Right frame:	235
+Left frame:	194
+Total frame:	774
+
+==============================
+2018-04-17 13:47
+Forward frame:	35
+Right frame:	21
+Left frame:	16
+Total frame:	72
+
+==============================
+2018-04-17 14:10
+Forward frame:	509
+Right frame:	348
+Left frame:	262
+Total frame:	1119
+
+==============================
+2018-04-17 14:19
+Forward frame:	55
+Right frame:	21
+Left frame:	16
+Total frame:	92
+
+==============================
+2018-04-17 14:55
+Forward frame:	530
+Right frame:	289
+Left frame:	195
+Total frame:	1014
+
+==============================
+2018-04-20 14:28
+Forward frame:	112
+Right frame:	76
+Left frame:	59
+Total frame:	247
+
+==============================
+2018-04-20 14:54
+Forward frame:	399
+Right frame:	257
+Left frame:	177
+Total frame:	833
+

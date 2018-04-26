@@ -1,0 +1,803 @@
+==============================good1
+Model config:
+	5000 nodes input
+	60 nodes in hidden layer
+	3 classes
+	20 epochs
+	50 batch size
+Time start train: 2018y_04m_23d_01h_39m
+Number data: 5544
+Loss: 5.95319054534131
+Accuracy: 0.6294160092057474
+==============================good2
+Model config:
+
+	Nodes input: 5000
+	Nodes in hidden layer: 64
+	Classes: 3
+	Epochs: 20
+	Batch size: 50
+Time start train: 2018y_04m_23d_08h_21m
+Number data: 5544
+Loss: 5.085940214568278
+Accuracy: 0.6834895518415681
+==============================good3
+Model config:
+
+	Nodes input: 5000
+	Nodes in hidden layer: 100
+	Classes: 3
+	Epochs: 20
+	Batch size: 50
+Time start train: 2018y_04m_23d_08h_26m
+Number data: 5544
+Loss: 6.240707661148105
+Accuracy: 0.6128334644120979
+==============================
+Model config:
+
+	Nodes input: 5000
+	Nodes in hidden layer: 20
+	Classes: 3
+	Epochs: 20
+	Batch size: 50
+Time start train: 2018y_04m_23d_08h_33m
+Number data: 5544
+Loss: 0.8049023899141626
+Accuracy: 0.666906994155782
+==============================false
+Model config:
+
+	Nodes input: 5000
+	Nodes in hidden layer: 25
+	Classes: 3
+	Epochs: 20
+	Batch size: 50
+Time start train: 2018y_04m_23d_08h_47m
+Number data: 5544
+Loss: 0.7801759052637591
+Accuracy: 0.7022350431348062
+==============================false
+Model config:
+
+	Nodes input: 5000
+	Nodes in hidden layer: 27
+	Classes: 3
+	Epochs: 20
+	Batch size: 50
+Time start train: 2018y_04m_23d_08h_49m
+Number data: 5544
+Loss: 0.8308861234158857
+Accuracy: 0.7000720995144614
+==============================sgdflase
+Model config:
+
+	Nodes input: 5000
+	Nodes in hidden layer: 27
+	Classes: 3
+	Epochs: 20
+	Batch size: 50
+Time start train: 2018y_04m_23d_09h_18m
+Number data: 5544
+Loss: 9.558185639962414
+Accuracy: 0.40519105999179256
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 40
+	Classes: 3
+	Epochs: 20
+	Batch size: 100
+Optimizer: sgd
+Time start train: 2018y_04m_23d_10h_11m
+Number data: 5544
+Loss: 6.729997952893731
+Accuracy: 0.5803893254485677
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 40
+	Classes: 3
+	Epochs: 20
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_10h_19m
+Number data: 5544
+Loss: 8.985889512511063
+Accuracy: 0.4426820463599622
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 60
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_10h_21m
+Number data: 5544
+Loss: 7.726460463723951
+Accuracy: 0.5198269521880683
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 80
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_13h_49m
+Number data: 5544
+Loss: 8.588522652541466
+Accuracy: 0.4664744032142656
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 81
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_13h_55m
+Number data: 5544
+Loss: 8.102869741677722
+Accuracy: 0.4960346082688753
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 82
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_13h_57m
+Number data: 5544
+Loss: 8.554488579489467
+Accuracy: 0.4693583262723044
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 83
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_00m
+Number data: 5544
+Loss: 8.576848927383038
+Accuracy: 0.4671953810189556
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 84
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_02m
+Number data: 5544
+Loss: 7.21232955990374
+Accuracy: 0.5515500977474231
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 85
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_05m
+Number data: 5544
+Loss: 8.60096802811186
+Accuracy: 0.4664744007217858
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 86
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_08m
+Number data: 5544
+Loss: 5.815653192111719
+Accuracy: 0.6395097274357411
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 87
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_10m
+Number data: 5544
+Loss: 8.57214339929428
+Accuracy: 0.4671953830602105
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 88
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_12m
+Number data: 5544
+Loss: 8.206059828540276
+Accuracy: 0.49098774182684746
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 89
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_14m
+Number data: 5544
+Loss: 8.822520609458918
+Accuracy: 0.4527757695749155
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 90
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_16m
+Number data: 5544
+Loss: 7.266795074845185
+Accuracy: 0.5493871594988019
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 91
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_18m
+Number data: 5544
+Loss: 8.25305529850889
+Accuracy: 0.48810381724323915
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 92
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_20m
+Number data: 5544
+Loss: 8.356919271789529
+Accuracy: 0.4808940100171365
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 93
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_23m
+Number data: 5544
+Loss: 8.808591705822824
+Accuracy: 0.4534967565974832
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 94
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_25m
+Number data: 5544
+Loss: 8.280964796372945
+Accuracy: 0.4859408745468307
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 95
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_28m
+Number data: 5544
+Loss: 8.293031631310209
+Accuracy: 0.4852198957107698
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 96
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_30m
+Number data: 5544
+Loss: 8.611804237792022
+Accuracy: 0.4657534225088448
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 97
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_32m
+Number data: 5544
+Loss: 7.090159249804221
+Accuracy: 0.5602018641497303
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 98
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_34m
+Number data: 5544
+Loss: 8.580057381380351
+Accuracy: 0.46791636436726436
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 99
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_37m
+Number data: 5544
+Loss: 8.333677935445575
+Accuracy: 0.4830569526705711
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 100
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_39m
+Number data: 5544
+Loss: 7.683678647985369
+Accuracy: 0.5227108828094938
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 101
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_41m
+Number data: 5544
+Loss: 8.660616465584356
+Accuracy: 0.4628695001383866
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 102
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_49m
+Number data: 5544
+Loss: 8.404127530082148
+Accuracy: 0.47873107054376224
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 81
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_52m
+Number data: 5544
+Loss: 8.322092195165698
+Accuracy: 0.483056953293691
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 82
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_54m
+Number data: 5544
+Loss: 8.050255513483444
+Accuracy: 0.5003604910832647
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 83
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_14h_56m
+Number data: 5544
+Loss: 8.277160820551888
+Accuracy: 0.48594088116479417
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 79
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_00m
+Number data: 5544
+Loss: 8.507248357980476
+Accuracy: 0.471521266089469
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 78
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_03m
+Number data: 5544
+Loss: 8.275580814611851
+Accuracy: 0.48666186004382894
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 77
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_05m
+Number data: 5544
+Loss: 8.74195643268907
+Accuracy: 0.45782263560869235
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 76
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_07m
+Number data: 5544
+Loss: 8.18491399657752
+Accuracy: 0.49170872309092745
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 75
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_09m
+Number data: 5544
+Loss: 8.729577681273973
+Accuracy: 0.4585436147240829
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 74
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_11m
+Number data: 5544
+Loss: 8.42662705563777
+Accuracy: 0.47728910541568803
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 73
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_14m
+Number data: 5544
+Loss: 7.6494798467755745
+Accuracy: 0.5248738275041834
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 72
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_16m
+Number data: 5544
+Loss: 8.194257782961536
+Accuracy: 0.4909877382170492
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 71
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_18m
+Number data: 5544
+Loss: 8.682295916144076
+Accuracy: 0.4614275384052417
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 70
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_20m
+Number data: 5544
+Loss: 8.751289657834802
+Accuracy: 0.4563806759812631
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 69
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_22m
+Number data: 5544
+Loss: 8.255464359935274
+Accuracy: 0.4866618582389298
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 68
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_24m
+Number data: 5544
+Loss: 7.835560845056711
+Accuracy: 0.5133381396123807
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 67
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_26m
+Number data: 5544
+Loss: 8.463032748601208
+Accuracy: 0.47440518207831955
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 66
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_28m
+Number data: 5544
+Loss: 8.497161075891826
+Accuracy: 0.4729632291762882
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 65
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_30m
+Number data: 5544
+Loss: 8.496385615939447
+Accuracy: 0.4722422421966943
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 64
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_32m
+Number data: 5544
+Loss: 8.391012571316962
+Accuracy: 0.4794520550308764
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 63
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_34m
+Number data: 5544
+Loss: 6.5223398514591535
+Accuracy: 0.5948089370645029
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 62
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_36m
+Number data: 5544
+Loss: 8.448345934476626
+Accuracy: 0.47584714703449865
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 61
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_38m
+Number data: 5544
+Loss: 6.997923012852411
+Accuracy: 0.5659697081171186
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 60
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_39m
+Number data: 5544
+Loss: 8.520407084689866
+Accuracy: 0.4715212628664348
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 59
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_41m
+Number data: 5544
+Loss: 8.497955793258347
+Accuracy: 0.4722422468378635
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 58
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_43m
+Number data: 5544
+Loss: 7.2081748663992355
+Accuracy: 0.5515501058909561
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 57
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_45m
+Number data: 5544
+Loss: 8.265534971975644
+Accuracy: 0.4866618548869743
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 56
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_47m
+Number data: 5544
+Loss: 8.542859258287315
+Accuracy: 0.47007930424888955
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 55
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_48m
+Number data: 5544
+Loss: 6.14882037101586
+Accuracy: 0.618601295788166
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 54
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_50m
+Number data: 5544
+Loss: 8.150904382487038
+Accuracy: 0.4938716540340047
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 53
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_52m
+Number data: 5544
+Loss: 7.823906145597759
+Accuracy: 0.5140591099611185
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 52
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_54m
+Number data: 5544
+Loss: 6.011609110457483
+Accuracy: 0.6265320816139738
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 51
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_56m
+Number data: 5544
+Loss: 8.625190171734756
+Accuracy: 0.46431146627634484
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 50
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_57m
+Number data: 5544
+Loss: 6.508064567398148
+Accuracy: 0.5962508960258385
+==============================
+Model config:
+	Nodes input: 5000
+	Nodes in hidden layer: 49
+	Classes: 3
+	Epochs: 30
+	Batch size: 100
+	Optimizer: sgd
+Time start train: 2018y_04m_23d_15h_59m
+Number data: 5544
+Loss: 8.788463310621244
+Accuracy: 0.454938717535613
